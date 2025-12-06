@@ -1,6 +1,6 @@
 name: smart_gap
 description: Intelligent spacing widget that auto-detects direction (Row/Column/Flex). No more SizedBox confusion! Use Gap(16) everywhere.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/AtifAnayat/smart_gap
 repository: https://github.com/AtifAnayat/smart_gap
 issue_tracker: https://github.com/AtifAnayat/smart_gap/issues
