@@ -1,5 +1,4 @@
 # 🎯 Smart Gap
-
 **The smartest spacing widget for Flutter.** No more confusion between `width` and `height` in `SizedBox`. Just use `Gap(16)` everywhere! 🚀
 
 Smart Gap automatically detects its parent widget's direction and applies the appropriate spacing. Works perfectly with `Row`, `Column`, `Flex`, `ListView`, `Wrap`, and more.
@@ -553,7 +552,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/smart_gap.git
+git clone https://github.com/AtifAnayat/smart_gap.git
 cd smart_gap
 
 # Get dependencies
@@ -578,7 +577,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 💖 Support
 
 If you find this package helpful, please:
-- ⭐ Star the repo on [GitHub](https://github.com/your-username/smart_gap)
+- ⭐ Star the repo on [GitHub](https://github.com/AtifAnayat/smart_gap)
 - 👍 Like on [pub.dev](https://pub.dev/packages/smart_gap)
 - 📢 Share with other Flutter developers
 - 🐛 Report issues
@@ -588,7 +587,7 @@ If you find this package helpful, please:
 
 ## 🙏 Acknowledgments
 
-Created with ❤️ by [Your Name](https://github.com/your-username)
+Created with ❤️ by [Atif Anayat](https://github.com/AtifAnayat)
 
 Inspired by the Flutter community's need for simpler spacing solutions.
 
@@ -598,8 +597,8 @@ Inspired by the Flutter community's need for simpler spacing solutions.
 
 - [Flutter Documentation](https://flutter.dev/docs)
 - [API Reference](https://pub.dev/documentation/smart_gap/latest/)
-- [Example App](https://github.com/your-username/smart_gap/tree/main/example)
-- [Issue Tracker](https://github.com/your-username/smart_gap/issues)
+- [Example App](https://github.com/AtifAnayat/smart_gap/tree/main/example)
+- [Issue Tracker](https://github.com/AtifAnayat/smart_gap/issues)
 
 ---
 
@@ -607,6 +606,6 @@ Inspired by the Flutter community's need for simpler spacing solutions.
 
 **Made with 💙 for the Flutter community**
 
-[Report Bug](https://github.com/your-username/smart_gap/issues) · [Request Feature](https://github.com/your-username/smart_gap/issues) · [Documentation](https://pub.dev/documentation/smart_gap/)
+[Report Bug](https://github.com/AtifAnayat/smart_gap/issues) · [Request Feature](https://github.com/AtifAnayat/smart_gap/issues) · [Documentation](https://pub.dev/documentation/smart_gap/)
 
 </div>
